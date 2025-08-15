@@ -199,7 +199,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
   <p>Made with ❤️ for Indian Artisans</p>
-  <p><strong>Artisan India</strong> - Preserving Heritage, Embracing Technology</p>
+  <p><strong>Artisans India</strong> - Preserving Heritage, Embracing Technology</p>
 </div>
 
 ## 📊 Project Status
